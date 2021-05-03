@@ -1,7 +1,7 @@
 # MGAN Ped Occlusion
 
 
-1. Installation:
+Installation:
 
 git clone https://github.com/AHP-boop/Ped-detection.git
 
