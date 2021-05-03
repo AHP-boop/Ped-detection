@@ -6,6 +6,8 @@ Installation:
 git clone https://github.com/AHP-boop/Ped-detection.git
 
 
+Dataset: Caltech and Cityscape
+
 ## Testing
 
 ```
